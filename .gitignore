@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.png
+*.md
+/.idea/
+/target/
+/build/cucumber-reports/cucumber.json
+src/main/resources/reportportal.properties
+/test-suites/
